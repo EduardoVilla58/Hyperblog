@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    color:deeppink;
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container{
+    width: 70%;
+    border:solid 2px grey;
+}
+#cabecera{
+    color: blanchedalmond;
+    font-weight: bolder;
+    font-size: 40px;
+    background-color: blue;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
